@@ -21,7 +21,7 @@
         <aliyun.dm.version>3.3.1</aliyun.dm.version>
         <aliyun.vod.version>2.15.8</aliyun.vod.version>
         <apache.commons.version>3.9</apache.commons.version>
-        <commons.io.version>2.6</commons.io.version>
+        <commons.io.version>2.7</commons.io.version>
         <lucene.version>8.4.0</lucene.version>
         <ansj.version>5.1.6</ansj.version>
         <alipay.version>4.9.124.ALL</alipay.version>
